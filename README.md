@@ -2,4 +2,6 @@
 readme-images-from-repo
 
 
-![Screenshot ](pexels-pixabay-40799.jpg)
+![Screenshot 1.](pexels-pixabay-40799.jpg)
+
+![Screenshot 2.](assets/images/Discord.jpg)
